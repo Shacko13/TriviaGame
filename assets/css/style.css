@@ -3,5 +3,76 @@
 }
 
 body {
-	background: url(../images/background.jpg)
+	background: url(../images/background.jpg);
+	text-align: center;
+}
+
+#container {
+	padding: 5% 0;
+    width:960px;
+    margin: auto;
+    min-height: 80%;
+}
+
+#subcontainer {
+	position: relative;
+	top: 20%;
+}
+
+#subcontainer h2 {
+	font-family: 'Chewy', cursive;
+	color: green;
+
+}
+
+#subcontainer h3 {
+	font-family: 'Chewy', cursive;
+	color: red;
+}
+
+h1 {
+	font-family: 'Chewy', cursive;
+	font-size: 80px;
+	font-weight: bold;
+	color: mediumblue;
+	padding: 10px 0px 10px 0px;
+	margin: 0px 0px 50px 0px;
+}
+
+button {
+	font-family: 'Chewy', cursive;
+    display: block;
+    width: 250px;
+    height: 80px;
+    margin: 80px auto 0 auto;
+    cursor: pointer;
+    background: orange;
+    font-size: 50px;;
+    color: purple;
+}
+
+h2 {
+	font-size: 50px;
+	margin-bottom: 35px
+}
+
+h3 {
+	font-size: 25px;
+	margin-bottom: 20px;
+}
+
+#start {
+	margin-top: 10%;
+	border: 2px solid black;
+	background: orange;
+}
+
+#done {
+	margin-top: 10%;
+	border: 2px solid black;
+	background: orange;
+}
+
+#play-area h2 {
+	margin-top: 50px;
 }
