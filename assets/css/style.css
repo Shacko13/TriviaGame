@@ -3,15 +3,16 @@
 }
 
 body {
-	background: url(../images/background.jpg);
+	background: url(../images/guitars2.jpg);
 	text-align: center;
 }
 
 #container {
 	padding: 5% 0;
-    width:960px;
-    margin: auto;
-    min-height: 80%;
+    width:600px;
+    margin: 75px auto;
+    
+    background: url(../images/background.jpg);
 }
 
 #subcontainer {
@@ -21,7 +22,7 @@ body {
 
 #subcontainer h2 {
 	font-family: 'Chewy', cursive;
-	font-size: 50px;
+	font-size: 30px;
 	color: green;
 
 }
@@ -34,7 +35,7 @@ body {
 
 h1 {
 	font-family: 'Chewy', cursive;
-	font-size: 100px;
+	font-size: 75px;
 	font-weight: bold;
 	color: mediumblue;
 	padding: 10px 0px 10px 0px;
@@ -44,12 +45,12 @@ h1 {
 button {
 	font-family: 'Chewy', cursive;
     display: block;
-    width: 250px;
+    width: 200px;
     height: 80px;
     margin: 80px auto 0 auto;
     cursor: pointer;
     background: orange;
-    font-size: 50px;;
+    font-size: 45px;;
     color: purple;
 }
 
