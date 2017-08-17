@@ -21,6 +21,7 @@ body {
 
 #subcontainer h2 {
 	font-family: 'Chewy', cursive;
+	font-size: 50px;
 	color: green;
 
 }
@@ -28,11 +29,12 @@ body {
 #subcontainer h3 {
 	font-family: 'Chewy', cursive;
 	color: red;
+	font-size: 30px;
 }
 
 h1 {
 	font-family: 'Chewy', cursive;
-	font-size: 80px;
+	font-size: 100px;
 	font-weight: bold;
 	color: mediumblue;
 	padding: 10px 0px 10px 0px;
@@ -57,7 +59,7 @@ h2 {
 }
 
 h3 {
-	font-size: 25px;
+	font-size: 35px;
 	margin-bottom: 20px;
 }
 
